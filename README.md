@@ -1,11 +1,11 @@
 # super-duper-doodle
 This is about the random project
 
-## Here is a bit more about it
+## About the Extension
+This is about the extension
 
 ### Install instructions
+  This is how you install it
 
-
-### Demo
-
-### Privacy Policy
+### Other General Info
+More info
